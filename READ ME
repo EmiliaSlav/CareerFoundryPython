@@ -1,0 +1,10 @@
+Instacart Grocery Basket Analysis
+Instacart is an online grocery store that operates through an app. Instacart already has outstanding sales, but they want to uncover more information about their sales patterns. I used python to derive insights and offer methods for better segmentation based on the provided criteria.
+
+Key Questions
+
+● The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
+● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
+● Are there differences in ordering habits based on a customer’s loyalty status?
+● Are there differences in ordering habits based on a customer’s region?
+● Is there a connection between age and family status in terms of ordering habits?
